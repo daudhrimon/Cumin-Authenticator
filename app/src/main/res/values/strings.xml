@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cumin Authenticator</string>
+    <string name="set_up_your_first_account">Set up your Account</string>
+    <string name="poweredBy">Powered by Cumin</string>
+    <string name="app_version">Version : 1.0.6</string>
+    <string name="MESSAGE_CRYPT_KEY">AK@ter#bd</string>
+
+
+    <string-array name="choice_items">
+        <item>Dark Theme</item>
+        <item>Light Theme</item>
+    </string-array>
+</resources>
